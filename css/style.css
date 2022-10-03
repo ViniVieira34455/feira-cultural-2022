@@ -10,6 +10,10 @@
     margin: 0 auto;
     text-align: center;
 }
+
+.titulo{
+    width: 250px;
+}
 h2{
     text-align: center;
 }
